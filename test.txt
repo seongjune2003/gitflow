@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 wqddwqdq
+=======
+dadsdasd
+sadsadsd
+>>>>>>> d8eec8ae99465c8d4b1b9696df4a87f4ee17da9d
